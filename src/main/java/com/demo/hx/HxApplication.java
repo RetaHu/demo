@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class HxApplication {
 //测试提交代码
 	public static void main(String[] args) {
-        System.out.println(".....2222");
+        System.out.println(".....2222++++");
 		SpringApplication.run(HxApplication.class, args);
 	}
 
